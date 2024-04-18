@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on various personal projects such as a Web Player app as well as a personal portfolio.<br>👯 I’m looking to collaborate on any type of projects!<br>🌱 I’m currently learning JavaScript and CSS<br>💬 Ask me about how fast I learned HTML<br>⚡ Fun fact! Did you know cows have best friends and get sad when they are separated from them? <br> ᕕ( ͡° ͜ʖ ͡° )ᕗ Pronouns: They/Them
+🔭 I am currently working on various personal projects such as a Web Player app as well as a personal portfolio.<br>👯 I’m looking to collaborate on any type of projects!<br>🌱 I’m currently learning JavaScript, Java and Python <br>💬 Ask me about how fast I learned HTML and CSS <br>⚡ Fun fact! Did you know cows have best friends and get sad when they are separated from them? <br> ᕕ( ͡° ͜ʖ ͡° )ᕗ Pronouns: They/Them
 
 
 ## 🌐 Socials:
